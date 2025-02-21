@@ -190,13 +190,13 @@ Pc2 Comm:
 **Connectivity test in each subnet**
 1. Admin subnet:
 *Pinging to IP 192.168.1.200 from PC1-Admin*
-![ping1.200.jpg](./_ressources/ping1.200.jpg)
+![ping1200.jpg](./_ressources/ping1.200.jpg)
 *Pinging to Gateway 192.168.1.100 from PC2-Admin*
-![ping1.100.jpg](./_ressources/ping1.100.jpg)
+![ping1100.jpg](./_ressources/ping1.100.jpg)
 
 3. Tech subnet:
 *Pinging to IP 192.168.2.200 from PC1-Tech*
-![ping2.200.jpg](./_ressources/ping2.200-1.jpg)
+![ping2200.jpg](./_ressources/ping2.200-1.jpg)
 *Pinging to Gateway 192.168.2.100 from PC2-Tech*
 ![ping2100.jpg](./_resources/ping2100.jpg)
 
